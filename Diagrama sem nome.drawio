@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="tbgP_R5B6ewvdQL0FVfd">
+    <mxGraphModel dx="5736" dy="3088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gebos6gf0XQl3oeo-OAO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="820" />
+              <mxPoint x="1860" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="65" y="100" width="2880" height="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="140" width="630" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="560" width="2870" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-6" value="&lt;h1 style=&quot;font-size: 50px;&quot;&gt;João Pedro Araùjo Gonçalves&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="500" width="926" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-11" value="&lt;h1 style=&quot;font-size: 54px;&quot;&gt;Formação&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="640" width="1190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-13" value="&lt;h3 style=&quot;font-size: 54px;&quot;&gt;Sobre&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-17" value="&lt;h1 style=&quot;font-size: 54px;&quot;&gt;Contato&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="640" width="880" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-24" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="680" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-26" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="1600" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-37" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="830" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-38" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-39" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="830" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1050" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-44" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1040" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1030" width="810" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2805" width="2870" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2822.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="100" width="605" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-69" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+          <mxGeometry x="65" y="160" width="610" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-70" value="Menu Item 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="Gebos6gf0XQl3oeo-OAO-69">
+          <mxGeometry width="610" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-71" value="Menu Item 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="Gebos6gf0XQl3oeo-OAO-69">
+          <mxGeometry y="100" width="610" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-72" value="Menu Item 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="Gebos6gf0XQl3oeo-OAO-69">
+          <mxGeometry y="200" width="610" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-73" value="Menu Item 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="Gebos6gf0XQl3oeo-OAO-69">
+          <mxGeometry y="300" width="610" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/Magnifier_magnifying_glass_search_search_web_searching_glass-128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="100" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Gebos6gf0XQl3oeo-OAO-79" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1097.5" y="1970" width="825" height="825" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
